@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customer>
+	<records>
+		<myki>123</myki>
+		<balance></balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount></amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch On</trntype>
+		<description>Tram</description>
+	</records>
+	<records>
+		<myki>123</myki>
+		<balance>26.00</balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount>10</amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch Off</trntype>
+		<description>Tram</description>
+	</records>
+	<records>
+		<myki>123</myki>
+		<balance></balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount></amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch On</trntype>
+		<description>Tram</description>
+	</records>
+	<records>
+		<myki>123</myki>
+		<balance>26.00</balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount>10</amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch Off</trntype>
+		<description>Tram</description>
+	</records>
+	<records>
+		<myki>123</myki>
+		<balance></balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount></amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch On</trntype>
+		<description>Tram</description>
+	</records>
+	<records>
+		<myki>346571900865234</myki>
+		<balance>26.00</balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount>10</amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch Off</trntype>
+		<description>Tram</description>
+	</records>
+	<records>
+		<myki>346571900865234</myki>
+		<balance></balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount></amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch On</trntype>
+		<description>Tram</description>
+	</records>
+	<records>
+		<myki>346571900865234</myki>
+		<balance>26.00</balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount>10</amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch Off</trntype>
+		<description>Tram</description>
+	</records>
+	<records>
+		<myki>346571900865234</myki>
+		<balance></balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount></amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch On</trntype>
+		<description>Tram</description>
+	</records>
+	<records>
+		<myki>346571900865234</myki>
+		<balance>26.00</balance>
+		<date>23/06/2012</date>
+		<time>14:23</time>
+		<amount>10</amount>
+		<service>Tram</service>
+		<zone>1/2</zone>
+		<trntype>Touch Off</trntype>
+		<description>Tram</description>
+	</records>
+</customer>
